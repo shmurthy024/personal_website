@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/personal_website/static/css/main.ea786e30.chunk.css",
-    "main.js": "/personal_website/static/js/main.f8fb89f1.chunk.js",
-    "main.js.map": "/personal_website/static/js/main.f8fb89f1.chunk.js.map",
-    "runtime-main.js": "/personal_website/static/js/runtime-main.6f67a557.js",
-    "runtime-main.js.map": "/personal_website/static/js/runtime-main.6f67a557.js.map",
-    "static/js/2.133243ee.chunk.js": "/personal_website/static/js/2.133243ee.chunk.js",
-    "static/js/2.133243ee.chunk.js.map": "/personal_website/static/js/2.133243ee.chunk.js.map",
-    "pdf.worker.js": "/personal_website/fbfee00e88ed28873be74bcc67dfa873.js",
-    "fbfee00e88ed28873be74bcc67dfa873.js.LICENSE.txt": "/personal_website/fbfee00e88ed28873be74bcc67dfa873.js.LICENSE.txt",
-    "index.html": "/personal_website/index.html",
-    "static/css/main.ea786e30.chunk.css.map": "/personal_website/static/css/main.ea786e30.chunk.css.map",
-    "static/js/2.133243ee.chunk.js.LICENSE.txt": "/personal_website/static/js/2.133243ee.chunk.js.LICENSE.txt",
-    "static/media/Shree_Murthy_Resume.b00c33dd.pdf": "/personal_website/static/media/Shree_Murthy_Resume.b00c33dd.pdf"
+    "main.css": "/personal_website/home/static/css/main.ea786e30.chunk.css",
+    "main.js": "/personal_website/home/static/js/main.f8fb89f1.chunk.js",
+    "main.js.map": "/personal_website/home/static/js/main.f8fb89f1.chunk.js.map",
+    "runtime-main.js": "/personal_website/home/static/js/runtime-main.e223ca42.js",
+    "runtime-main.js.map": "/personal_website/home/static/js/runtime-main.e223ca42.js.map",
+    "static/js/2.133243ee.chunk.js": "/personal_website/home/static/js/2.133243ee.chunk.js",
+    "static/js/2.133243ee.chunk.js.map": "/personal_website/home/static/js/2.133243ee.chunk.js.map",
+    "pdf.worker.js": "/personal_website/home/fbfee00e88ed28873be74bcc67dfa873.js",
+    "fbfee00e88ed28873be74bcc67dfa873.js.LICENSE.txt": "/personal_website/home/fbfee00e88ed28873be74bcc67dfa873.js.LICENSE.txt",
+    "index.html": "/personal_website/home/index.html",
+    "static/css/main.ea786e30.chunk.css.map": "/personal_website/home/static/css/main.ea786e30.chunk.css.map",
+    "static/js/2.133243ee.chunk.js.LICENSE.txt": "/personal_website/home/static/js/2.133243ee.chunk.js.LICENSE.txt",
+    "static/media/Shree_Murthy_Resume.b00c33dd.pdf": "/personal_website/home/static/media/Shree_Murthy_Resume.b00c33dd.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.6f67a557.js",
+    "static/js/runtime-main.e223ca42.js",
     "static/js/2.133243ee.chunk.js",
     "static/css/main.ea786e30.chunk.css",
     "static/js/main.f8fb89f1.chunk.js"
