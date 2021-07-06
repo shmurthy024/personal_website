@@ -11,7 +11,7 @@ import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import AccountCircle from '@material-ui/icons/AccountCircle';
 import MoreIcon from '@material-ui/icons/MoreVert';
 import { useHistory } from 'react-router';
-
+import HomeIcon from '@material-ui/icons/Home';
 
 
 const useStyles = makeStyles((theme) => ({
@@ -58,7 +58,7 @@ const useStyles = makeStyles((theme) => ({
 export default function NavBar() {
   let history = useHistory();
   const redirectHome = () => {
-    history.push('/')
+    history.push('/home')
   }
  
   const classes = useStyles();
@@ -114,7 +114,7 @@ export default function NavBar() {
           color="inherit"
           onClick={redirectHome}
         >
-          <AccountCircle />
+          <HomeIcon />
         </IconButton>
         
       </MenuItem>
@@ -143,7 +143,7 @@ export default function NavBar() {
               color="inherit"
               onClick={redirectHome}
             >
-              <AccountCircle fontSize="large"/>
+              <HomeIcon fontSize="large"/>
             </IconButton>
           </div>
           <div className={classes.sectionMobile}>
