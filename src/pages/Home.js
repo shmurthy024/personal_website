@@ -1,7 +1,6 @@
 import { Paper, Typography, makeStyles, Grid} from '@material-ui/core';
 import React from 'react';
 import Cards from '../components/Cards';
-import NavBar  from '../components/NavBar';
 import './Home.css';
 
 
