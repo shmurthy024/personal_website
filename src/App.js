@@ -3,7 +3,7 @@ import Home from './pages/Home';
 import Resume from './pages/Resume';
 import NavBar from './components/NavBar';
 import './App.css';
-import { BrowserRouter as Router, Route, Switch, Link, Redirect} from "react-router-dom";
+import { BrowserRouter as Router, Route, Switch} from "react-router-dom";
 
 
 class App extends React.Component{
@@ -13,7 +13,7 @@ class App extends React.Component{
                 <NavBar/>
                 <Switch>
                     <Route exact path ="/" component={Home}/>
-                    <Route exact path="/home" component={Home}/>
+                    <Route path="/home" component={Home}/>
                     <Route path="/Resume" component={Resume}/>
                 </Switch>
             
