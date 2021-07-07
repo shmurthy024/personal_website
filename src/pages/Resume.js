@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Document, Page } from 'react-pdf/dist/umd/entry.webpack';
-import pdf from "./Shree_Murthy_Resume.pdf"
+import pdf from "../PDFs/Shree_Murthy_Resume.pdf"
 import './Resume.css';
 function Resume() {
   const [numPages, setNumPages] = useState(null);

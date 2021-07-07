@@ -56,7 +56,7 @@ export default function Cards() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button size="small" onClick={redirect}>Learn More</Button>
+        <Button size="small" onClick={"shmurthy024.github.io/PDFs/Shree_Murthy_Resume.pdf"}>Learn More</Button>
       </CardActions>
     </Card>
   );
