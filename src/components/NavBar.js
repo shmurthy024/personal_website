@@ -58,7 +58,7 @@ const useStyles = makeStyles((theme) => ({
 export default function NavBar() {
   let history = useHistory();
   const redirectHome = () => {
-    history.push('/personal_website/home')
+    history.push('/home')
   }
  
   const classes = useStyles();

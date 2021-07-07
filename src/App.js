@@ -12,9 +12,9 @@ class App extends React.Component{
             <Router>
                 <NavBar/>
                 <Switch>
-                    <Route exact path ="/personal_website/" component={Home}/>
-                    <Route path="/personal_website/home" component={Home}/>
-                    <Route path="/personal_website/Resume" component={Resume}/>
+                    <Route exact path ="/" component={Home}/>
+                    <Route path="/home" component={Home}/>
+                    <Route path="/resume" component={Resume}/>
                 </Switch>
             
             </Router>
