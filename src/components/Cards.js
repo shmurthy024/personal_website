@@ -31,7 +31,7 @@ const useStyles = makeStyles({
 export default function Cards() {
   let history = useHistory();
   const redirect = () => {
-    history.push('/Resume')
+    history.push('/personal_website/Resume')
   }
   const classes = useStyles();
 
